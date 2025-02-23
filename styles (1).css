@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.section {
+    margin-bottom: 30px;
+}
+
+h1 {
+    font-size: 20px;
+    color: #333;
+}
+
+p {
+    color: blue;
+    font-size: 16px;
+}
+
+img {
+    width: 40%;
+    height: auto;
+    max-height: 150px;
+    display: block;
+    margin-top: 10px;
+}
